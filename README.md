@@ -10,19 +10,22 @@
 [![Linkedin: ruben-manriquez-salles/](https://img.shields.io/badge/linkedin-ruben--manriquez--salles-skyblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-manriquez-salles/)](https://www.linkedin.com/in/ruben-manriquez-salles/)
 ![GitHub followers](https://img.shields.io/github/followers/eoloth?label=Follow&style=social)
 
+  
 
 ### 📫 Like to meet me?
+  
+  
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="50"> A little more about me...  
 
 ```bash
 #!/bin/bash
     echo "Code languages: "Python", "R"]
-    echo "Knowledge and studies: "cybersecurity", "big data", "exploits", "AWS", "VirtualBox", "Linux user"
-
-};
+    echo "Knowledge and studies: "cybersecurity", "big data", 
+  "exploits", "AWS", "VirtualBox", "Linux user"
 ```
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
