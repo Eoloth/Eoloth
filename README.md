@@ -22,11 +22,8 @@
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user"
 ```
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=convoychat" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=github-readme-stats)](https://github.com/Eoloth/github-readme-stats)
+
 </a>
 <!--START_SECTION:waka-->
   
