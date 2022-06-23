@@ -22,8 +22,7 @@
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user"
 ```
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=github-readme-stats)](https://github.com/Eoloth/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=radical)
 </a>
 <!--START_SECTION:waka-->
   
