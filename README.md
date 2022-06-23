@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> I'm Rubén Manríquez Sallés! <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="50"></h2>
-<img align='right' src="https://media3.giphy.com/media/lp3GUtG2waC88/giphy.gif?cid=790b7611fdb3653c56942292fad892e3bf17590761fa5d0c&rid=giphy.gif&ct=g" width="230">
-<img align='right' src="https://media3.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=790b7611d00172bf3cfe214d31b12094b43be43bd6c7afb4&rid=giphy.gif&ct=g" width="230">
   </p>
 <p><em>Computer Engineering Student at <a href="https://www.duoc.cl/">DUOC UC
 </em></p>
@@ -24,6 +22,12 @@
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user"
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eoloth&repo=convoychat" />
+</a>
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
