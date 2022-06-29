@@ -18,7 +18,7 @@
 
 ```bash
 #!/bin/bash
-    echo "Code languages: "Python", "R"]
+    echo "Code languages: "Python", "C#", Learning "R"]
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user"
 ```
