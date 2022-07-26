@@ -2,9 +2,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> I'm Rubén Manríquez Sallés! 
   <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="50"></h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1621016661/38995/coffee.gif?1621016661" width="30">
-  </p>
-<p><em>Computer Engineering Student at <a href="https://www.duoc.cl/">DUOC UC
+  <img src="https://emojis.slackmojis.com/emojis/images/1621016661/38995/coffee.gif?1621016661" width="30"><em>Computer Engineering Student at <a href="https://www.duoc.cl/">DUOC UC
 </em></p>
 
 [![Linkedin: ruben-manriquez-salles/](https://img.shields.io/badge/linkedin-ruben--manriquez--salles-skyblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-manriquez-salles/)](https://www.linkedin.com/in/ruben-manriquez-salles/)
