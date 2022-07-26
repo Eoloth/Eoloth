@@ -14,9 +14,11 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="50"> A little more about me...  
 
+### What do I know
+
 ```bash
 #!/bin/bash
-    echo "Code languages: "Python", "C#", "R", "Javascript" "
+    echo "Code languages: "Python", "C#", "Learning R and Javascript" "
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user" "
     echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
@@ -26,7 +28,7 @@
 </a>
 <a href="https://github.com/Eoloth/Eoloth"><img alt="Eoloth's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eoloth&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
 
-
+### Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
