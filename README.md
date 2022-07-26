@@ -27,6 +27,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=radical)
 </a>
 <a href="https://github.com/Eoloth/Eoloth"><img alt="Eoloth's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eoloth&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+<figure><embed src="https://wakatime.com/share/@eoloth/8b86b760-23e7-41c3-8fd0-33298d966fcd.svg"></embed></figure>
 
 ### Coding Stats
 <!--START_SECTION:waka-->
