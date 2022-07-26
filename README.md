@@ -5,12 +5,10 @@
   <p>Computer Engineering Student at <a href="https://www.duoc.cl/">DUOC UC
 </p>
 
+  ### 📫 Like to meet me?
 [![Linkedin: ruben-manriquez-salles/](https://img.shields.io/badge/linkedin-ruben--manriquez--salles-skyblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-manriquez-salles/)](https://www.linkedin.com/in/ruben-manriquez-salles/)
 ![GitHub followers](https://img.shields.io/github/followers/eoloth?label=Follow&style=social)
 
-
-### 📫 Like to meet me?
-  
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="50"> A little more about me...  
 
