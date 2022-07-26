@@ -28,7 +28,14 @@
 <img width="1582" alt="Captura de Pantalla 2022-06-25 a la(s) 14 04 53" src="https://user-images.githubusercontent.com/53416886/175785381-04bbb8e6-c5d4-474c-bcf3-0a21c8dabc2b.png">
 
 <!--START_SECTION:waka-->
-  
+
+```text
+Python           2 hrs 38 mins   █████████████████▓░░░░░░░   70.19 %
+JavaScript       34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+HTML             33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
