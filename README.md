@@ -23,7 +23,7 @@
   "exploits", "AWS", "VirtualBox", "Linux user"
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=radical)
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)
 </a>
 
 <img width="1582" alt="Captura de Pantalla 2022-06-25 a la(s) 14 04 53" src="https://user-images.githubusercontent.com/53416886/175785381-04bbb8e6-c5d4-474c-bcf3-0a21c8dabc2b.png">
