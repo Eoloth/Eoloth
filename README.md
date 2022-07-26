@@ -16,9 +16,10 @@
 
 ```bash
 #!/bin/bash
-    echo "Code languages: "Python", "C#", Learning "R"]
+    echo "Code languages: "Python", "C#", "R", "Javascript" "
     echo "Knowledge and studies: "cybersecurity", "big data", 
-  "exploits", "AWS", "VirtualBox", "Linux user"
+  "exploits", "AWS", "VirtualBox", "Linux user" "
+    echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=radical)
