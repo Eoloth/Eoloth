@@ -22,7 +22,7 @@
     echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eoloth&show_icons=true&theme=gruvbox)
 </a>
 <a href="https://github.com/Eoloth/Eoloth"><img alt="Eoloth's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eoloth&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
 <img alt="IDE's time" src="https://wakatime.com/share/@eoloth/8b86b760-23e7-41c3-8fd0-33298d966fcd.svg" width=60%>
