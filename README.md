@@ -16,7 +16,7 @@
 
 ```bash
 #!/bin/bash
-    echo "Code languages: "Python", "C#", "Learning R and Javascript" "
+    echo "Code languages: "Python", "C#", "Javascript", "TypeScript" "
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user" "
     echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
