@@ -17,6 +17,8 @@
 ```bash
 #!/bin/bash
     echo "Code languages: "Python", "C#", "Javascript", "TypeScript" "
+    echo "Databases: "SQL", "learning MongoDB" "
+    echo "Frameworks: "Angular" "
     echo "Knowledge and studies: "cybersecurity", "big data", 
   "exploits", "AWS", "VirtualBox", "Linux user" "
     echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
