@@ -20,7 +20,7 @@
     echo "Databases: "SQL", "learning MongoDB" "
     echo "Frameworks: "Angular" "
     echo "Knowledge and studies: "cybersecurity", "big data", 
-  "exploits", "AWS", "VirtualBox", "Linux user" "
+  "exploits", "AWS", "VirtualBox", "Linux user", "Coding", "FullStack" "
     echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
 ```
 
