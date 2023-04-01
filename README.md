@@ -2,7 +2,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> I'm Rubén Manríquez Sallés! 
   <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="50"></h2>
-  <p>Computer Engineering Student at <a href="https://www.duoc.cl/">DUOC UC
+  <p>Bachelor in Computer Engineering at <a href="https://www.duoc.cl/">DUOC UC
 </p>
 
   ### 📫 Like to meet me?
