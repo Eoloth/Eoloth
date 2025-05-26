@@ -1,28 +1,28 @@
-### Hi there 👋
+# 👋 Hola, soy Rubén Manríquez
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> I'm Rubén Manríquez Sallés! 
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13477/abra_pokemon.gif?1643515329" width="50"></h2>
-  <p>Bachelor in Computer Engineering at <a href="https://www.duoc.cl/">DUOC UC
-</p>
+🎓 Ingeniero en Informática | 🛡️ CEH – Ethical Hacker Certificado | ⚙️ Linux & Python  
+🔍 Enfocado en ciberseguridad ofensiva, automatización y formación de conciencia técnica.
 
-  ### 📫 Like to meet me?
-[![Linkedin: ruben-manriquez-salles/](https://img.shields.io/badge/linkedin-ruben--manriquez--salles-skyblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruben-manriquez-salles/)](https://www.linkedin.com/in/ruben-manriquez-salles/)
-![GitHub followers](https://img.shields.io/github/followers/eoloth?label=Follow&style=social)
+---
 
+## 💡 Áreas de especialización
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="50"> A little more about me...  
+- Pentesting (TryHackMe Top 1%)
+- Seguridad en Linux y GCP
+- Automatización con Python y Bash
+- OWASP, ISO 27001, NIST, CIS
+- Concientización en seguridad digital
 
-### What do I know
+---
 
-```bash
-#!/bin/bash
-    echo "Code languages: "Python", "C#", "Javascript", "TypeScript" "
-    echo "Databases: "SQL", "learning MongoDB" "
-    echo "Frameworks: "Angular" "
-    echo "Knowledge and studies: "cybersecurity", "big data", 
-  "exploits", "AWS", "VirtualBox", "Linux user", "Coding", "FullStack" "
-    echo "IDE's: "Visual Studio Code", "Pycharm", "Webstorm" "
-```
+## 🔐 Repositorios destacados
 
+- 🔧 [scripts-automatizacion-seguridad](https://github.com/Eoloth/scripts-automatizacion-seguridad)  
+- 📄 [informes-auditorias](https://github.com/Eoloth/informes-auditorias)  
+- 🧪 [labs-tryhackme](https://github.com/Eoloth/labs-tryhackme)
 
-<img width="1582" alt="Captura de Pantalla 2022-06-25 a la(s) 14 04 53" src="https://user-images.githubusercontent.com/53416886/175785381-04bbb8e6-c5d4-474c-bcf3-0a21c8dabc2b.png">
+---
+
+## 📄 [Ver mi CV en PDF](https://github.com/Eoloth/cv/blob/main/CV_Ruben_Manriquez.pdf)
+
+## 🌐 [Mi portafolio web](https://rubenmanriquez.github.io/)
