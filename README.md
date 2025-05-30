@@ -25,4 +25,4 @@
 
 ## 📄 [Ver mi CV en PDF](https://github.com/Eoloth/cv/blob/main/CV_Ruben_Manriquez.pdf)
 
-## 🌐 [Mi portafolio web](https://rubenmanriquez.github.io/)
+## 🌐 [Mi portafolio web]([https://rubenmanriquez.github.io](https://eoloth.github.io/rubenmanriquez.github.io/)/)
